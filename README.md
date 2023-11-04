@@ -8,14 +8,13 @@ The application enables users to enter inputs into a inquirer prompt in order to
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
 - [Usage Information](#Usage-Information)
 - [Installation Process](#Installation-Process)
-- [Built With](#Built-With)
-- [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
+- [Credits](#credits)
 - [License](#License)
 - [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
 
 # Overview
 
@@ -75,15 +74,9 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 3. Open the cloned repository in any source code editor.
 4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
 
-## Built With
-- Saiyan Pride
-- Dynamic JavaScript
-- Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
-- Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- License Badge: [Shields.io](https://shields.io/)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
+## Credits
 
+N/A
 
 ## License & Copyright ©
   
