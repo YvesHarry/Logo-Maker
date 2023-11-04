@@ -30,6 +30,7 @@ AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
+
 ## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
@@ -47,6 +48,7 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
+
 ## Usage Instructions
 1. Open the cloned repository in any source code editor e.g. Visual Studio Code.
 2. Open integrated terminal on index.js
@@ -63,12 +65,14 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 [Click here](https://drive.google.com/file/d/1yo95uOmAKPl93d27HzBA_nFfmP6NfRpP/view)
   for the Walkthrough Video.
 
+
 ## Installation Process
 1. Clone the repository: [Logo-Maker](https://github.com/YvesHarry/Logo-Maker.git)
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
+- [SVG VS Code Extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 3. Open the cloned repository in any source code editor.
 4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
 
