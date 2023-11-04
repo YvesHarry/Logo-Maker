@@ -57,8 +57,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 7. (Optional) Regarding future use, you may alter the prompted questions within the index.js to best suit your needs.
 8. (Optional) The SVG Logo Maker serves as a foundation so you are not limited to altering the files (as you have my permission) to create the best possible "logo.svg" file.
 
-## Solution URL:
-[Solution URL Link:](https://github.com/YvesHarry/Logo-Maker.git)
 
 ## Walkthrough Video:
 
